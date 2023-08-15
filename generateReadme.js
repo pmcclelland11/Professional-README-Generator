@@ -33,8 +33,7 @@ ${userInput.contributing}
 ${userInput.tests}
 
 ## Questions
-For additional questions, you can reach me via [GitHub](https://github.com/${userInput.githubUsername}) or email at ${userInput.email}.
-`;
+For additional questions, you can reach me via [GitHub](https://github.com/${userInput.githubUsername}) or email at ${userInput.email}.`;
 }
 
 function generateLicenseBadge(license) {
