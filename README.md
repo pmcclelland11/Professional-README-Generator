@@ -12,6 +12,7 @@ Created in VS Code, this README generator is a command-line tool that makes it e
 - [Support](#support)
 - [Acknowledgements](#acknowledgements)
 - [Authors](#authors)
+- [Video Walkthrough](#video-walkthrough)
 
 ## User Story
 AS A developer
@@ -57,3 +58,5 @@ N/A
 Authored by Patrick McClelland, UC Berkeley Bootcamp Student
 
 ## Video Walkthrough
+![Video Walkthrough](./assets/screencast.gif)
+![Demo README video](./assets/demo.gif)
