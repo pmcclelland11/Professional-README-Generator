@@ -1,6 +1,5 @@
 function generateReadme(userInput) {
     const licenseBadge = generateLicenseBadge(userInput.license);
-    const licenseNotice = generateLicenseNotice(userInput.license);
 
     return `# ${userInput.title}
 ${licenseBadge}
@@ -24,7 +23,6 @@ ${userInput.usage}
 
 ## License
 This project is covered under the ${userInput.license} license.
-${licenseNotice}
 
 ## Contributing
 ${userInput.contributing}
@@ -47,19 +45,6 @@ function generateLicenseBadge(license) {
     };
 
     return badgeURLs[license] || '';
-}
-
-function generateLicenseNotice(license) {
-    const licenseNotices = {
-        'MIT': 'This application is covered by the MIT License.',
-        'Apache': 'This application is covered by the Apache License.',
-        'GPL': 'This application is covered by the GPL License.',
-        'BSD-2-Clause': 'This application is covered by the BSD 2-Clause License.',
-        'ISC': 'This application is covered by the ISC License.',
-        'None': 'This application has no specified license.',
-    };
-
-    return licenseNotices[license] || '';
 }
 
 module.exports = generateReadme;
