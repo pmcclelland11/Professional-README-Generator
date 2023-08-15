@@ -1,6 +1,6 @@
 # UC Berkeley Coding Bootcamp - Module 9 Challenge
-# Professional-README-Generator
-
+# Professional README Generator
+Created in VS Code, this README generator is a command-line tool that makes it easy to create professional README files for GitHub projects. It quickly generates well-structured documentation by adapting to user input, saving time and ensuring a clear presentation.
 
 ## Table of Contents 
 - [User Story](#user-story)
@@ -42,7 +42,7 @@ No special installation is necessary to view this project.
 This project is intended for education purposes only.
 
 ## Features
-
+JavaScript / JSON / Command-Line Application / README Generator / License Badge Integration 
 
 ## Contributing
 No others have contributed to this repository. 
@@ -55,3 +55,5 @@ N/A
 
 ## Authors
 Authored by Patrick McClelland, UC Berkeley Bootcamp Student
+
+## Video Walkthrough
