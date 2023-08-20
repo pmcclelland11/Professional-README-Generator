@@ -58,5 +58,5 @@ N/A
 Authored by Patrick McClelland, UC Berkeley Bootcamp Student
 
 ## Video Walkthrough
-![Video Walkthrough](./assets/demo.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/toMwhIWb30o" frameborder="0" allowfullscreen></iframe>
 ![Demo README video](./assets/demo.gif)
