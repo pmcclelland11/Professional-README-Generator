@@ -1,8 +1,8 @@
-# My Very First Project
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# My First Project
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-The description of the project goes here! It is an awesome project!
+This is just a demo project!
 
 ## Table of Contents
 - [Installation](#installation)
@@ -19,7 +19,7 @@ n/a
 n/a
 
 ## License
-This project is covered under the GPL license.
+This project is covered under the Apache license.
 
 ## Contributing
 n/a
