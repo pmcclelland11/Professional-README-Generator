@@ -58,5 +58,5 @@ N/A
 Authored by Patrick McClelland, UC Berkeley Bootcamp Student
 
 ## Video Walkthrough
-![Video Walkthrough](./assets/demo.mov)
+![Video Walkthrough](./assets/demo.mp4)
 ![Demo README video](./assets/demo.gif)
