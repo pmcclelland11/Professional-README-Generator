@@ -59,5 +59,6 @@ Authored by Patrick McClelland, UC Berkeley Bootcamp Student
 
 ## Video Walkthrough
 Command-Line Demo: https://www.youtube.com/watch?v=toMwhIWb30o
+
 README Demo:
 ![Demo README video](./assets/demo.gif)
